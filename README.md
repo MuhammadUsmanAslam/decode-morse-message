@@ -9,6 +9,7 @@
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 Morse Code Translator ](#-morse-code-translator-)
   - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites ](#prerequisites-)
@@ -28,7 +29,29 @@
 
 ## 🛠 Built With <a name="built-with"></a>
 
-- **Ruby**
+<!-- - **Ruby** -->
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li>N/A</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <a href="https://www.ruby-lang.org/en/">Ruby</a>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li>N/A</li>
+  </ul>
+</details>
 
 <!-- Features -->
 
