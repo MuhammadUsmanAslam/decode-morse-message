@@ -33,6 +33,5 @@ def decode(sentence)
   sentence_words_array.join(' ')
 end
 
-
 # print decode("-- -.--   -. .- -- .")
 print decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
