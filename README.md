@@ -6,31 +6,25 @@
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-  - [Tech Stack](#tech-stack)
-  - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Setup](#setup)
-  - [Install](#install)
-  - [Getting Started with Create React App](#getting-started-React)
-  - [Available Scripts](#available-scripts)
-  - [Learn More](#learn-more)
-- [👥 Author](#author)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [📝 License](#license)
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 Morse Code Translator ](#-morse-code-translator-)
+  - [🛠 Built With ](#-built-with-)
+    - [Key Features ](#key-features-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites ](#prerequisites-)
+    - [Setup ](#setup-)
+    - [Install ](#install-)
+  - [👥 Author ](#-author-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 Morse Code Translator <a name="about-project"></a>
 
 **Morse Code Translator**
->
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -41,12 +35,6 @@
 ### Key Features <a name="key-features"></a>
 
 - Function to decode morse code characters.
-
-<!-- LIVE DEMO -->
-
- ## 🚀 Live Demo <a name="live-demo"></a>
-
-- Coming soon
 
 <!-- GETTING STARTED -->
 
@@ -114,7 +102,7 @@ Give a ⭐️ if you like this project!
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank:
-- [Microverse](www.microverse.com)
+- [Microverse](https://www.microverse.org)
 
 <!-- LICENSE -->
 
