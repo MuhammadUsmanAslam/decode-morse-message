@@ -16,6 +16,7 @@
     - [Setup ](#setup-)
     - [Install ](#install-)
   - [👥 Author ](#-author-)
+  - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
@@ -105,6 +106,14 @@ Install all the dependencies required for, by using the command below
 - GitHub: [@githubhandle](https://github.com/David-Lanzz/)
 - Twitter: [@twitterhandle](https://twitter.com/LanzzDavid)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/david-lanzz)
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **Decoding Morse Message**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
